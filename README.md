@@ -53,5 +53,3 @@ main() {
 ## Requirements
 - Dart SDK installed.
 - A Dart-compatible IDE or text editor.
-
-'''

@@ -51,6 +51,6 @@ main() {
 - **Null safety**: Uses Dart's null-safety features with nullable types for better safety and flexibility.
 
 ## Requirements
-- [Dart-SDK](https://dart.dev/get-dart)installe.
+- [Dart-SDK](https://dart.dev/get-dart) installed.
 - A Dart-compatible IDE or text editor.
 (Offline IDE: [Android Studio](https://developer.android.com/studio/install) or Online IDE: [DartPad](https://dartpad.dev/))
